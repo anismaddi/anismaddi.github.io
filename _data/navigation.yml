@@ -8,9 +8,9 @@ main:
 
   - title: "CV"
     #url: /files/CV_Anis_Researcher.pdf 
-    url: /pages/
-  - title: "Portfolio"
     url: /resume/
+  - title: "Portfolio"
+    url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
