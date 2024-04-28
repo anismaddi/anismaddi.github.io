@@ -10,7 +10,7 @@ main:
     #url: /files/CV_Anis_Researcher.pdf 
     url: /pages/
   - title: "Portfolio"
-    url: /portfolio/
+    url: /resume/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
