@@ -7,8 +7,8 @@ main:
 #    url: /talks/    
 
   - title: "CV"
-    url: /files/CV_Anis_Researcher.pdf 
-    
+    #url: /files/CV_Anis_Researcher.pdf 
+    url: /pages/cv.md
   - title: "Portfolio"
     url: /portfolio/
         
