@@ -6,12 +6,14 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "CV"
-    url: /files/CV_Anis_Researcher.pdf 
     #url: /cv/
   - title: "Portfolio"
     url: /portfolio/
-        
+
+    
+  - title: "CV"
+    url: /files/CV_Anis_Researcher.pdf 
+    
  # - title: "Blog Posts"
  #   url: /year-archive/
     
