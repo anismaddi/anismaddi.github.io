@@ -2,7 +2,7 @@
 title: "Time-resolved measurement of acoustic density fluctuations using a phase-shifting Mach-Zehnder interferometer"
 collection: publications
 category: manuscripts
-permalink: https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.6.L012061 
+permalink: /publication/2024-12-01-EA-scatterer
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-04-01
 venue: 'The Journal of the Acoustical Society of America'
