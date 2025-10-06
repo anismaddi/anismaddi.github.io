@@ -57,8 +57,8 @@ Talks
   
 Teaching
 ======
-* UE 541 Modélisatisation multi-physique appliquée aux systèmes, [Bachelor level](https://scifa.univ-lorraine.fr/content/sciences-pour-lingenieur-eea): 40h
- * Academic year : 2025-2026
+* UE 541 Modélisatisation multi-physique appliquée aux systèmes, Bachelor level [SPI](https://scifa.univ-lorraine.fr/content/sciences-pour-lingenieur-eea): 40h
+  * Academic year : 2025-2026
 
   
 Service and leadership
