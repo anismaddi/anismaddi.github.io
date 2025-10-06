@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Acoustics, Le Mans University, 2025 
+* M.S. in Acoustics and Wave Physics, Le Mans University, 2021
+* B.S. in Mechanical engineering, Sorbonne University, 2019
 
 Work experience
 ======
