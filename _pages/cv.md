@@ -19,12 +19,12 @@ Education
 Work experience
 ======
 * May 2025 - Now : Postdoctoral fellow
-  * Institut Jean Lamour, Nancy, France
+  * [Institut Jean Lamour](https://ijl.univ-lorraine.fr), Nancy, France
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
     
 * Mar. 2023 - Sep. 2023: Invited researcher
-  * Tohoku University, Sendai, Japan
+  * [Tohoku University](http://www.amsd.mech.tohoku.ac.jp/english.html), Sendai, Japan
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
