@@ -20,7 +20,7 @@ Work experience
 ======
 * May 2025 - Now : Postdoctoral fellow
   * [Institut Jean Lamour](https://ijl.univ-lorraine.fr), Nancy, France
-  * Topic: Conception of acoustic and elastic systems supporting bound states in the continuum (BICs) modes.
+  * Aim: Conception of acoustic and elastic systems supporting bound states in the continuum (BICs) modes.
     
 * Mar. 2023 - Sep. 2023: Invited researcher
   * [Tohoku University](http://www.amsd.mech.tohoku.ac.jp/english.html), Sendai, Japan
@@ -63,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Oct. 2019 - Apr. 2025: Member of the Institut d'Acoustique Graduate school ([IA-GS](https://iags.univ-lemans.fr/fr/index.html)) administrative board.
