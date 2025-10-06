@@ -49,12 +49,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences and Workshops
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Enhancing sound wave absorption using the thermoacoustic effect, [I-META kickoff](https://factuel.univ-lorraine.fr/article/retour-sur-journee-de-lancement-du-projet-impact-i-meta/), Nancy, France
+* Nonreciprocal electroacoustic scatterer, [CFA 2025](https://cfa2025.fr), Paris, France
+* A nonreciprocal and tunable active acoustic scatterer, TopoAcoustics Workshop, Le Mans, France
+* Thermoacoustic Amplifier, [Internoise 2024](https://internoise2024.org), Nancy, France
+* Non-Hermitian topological systems using nonreciprocal electroacoustic elements, [META2024](https://metaconferences.org/META24/index.php/META/index), Toyama, Japan
+
+
 Teaching
 ======
 * Academic year : 2025-2026
