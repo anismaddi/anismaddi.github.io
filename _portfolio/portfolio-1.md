@@ -1,6 +1,6 @@
 ---
 title: "Interferometer"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Interferometer.png'>"
+excerpt: "Conception of a Phase-Shifting Mach-Zahnder interferometer to study thermoacoustic problems<br/><img src='/images/Interferometer.png'>"
 collection: portfolio
 ---
 
