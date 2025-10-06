@@ -4,4 +4,4 @@ excerpt: "Conception of a Phase-Shifting Mach-Zahnder interferometer to study th
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We developed a Mach–Zehnder interferometer employing a phase-shifting technique to measure variations in air density. The setup, installed at Tohoku University in Sendai, was initially used to investigate the influence of boundary layer thickness on the density distribution in the presence of sound waves. In future work, we plan to explore more complex dynamics, including edge effects at the outlet of porous materials. 
