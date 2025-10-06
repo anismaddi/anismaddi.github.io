@@ -68,4 +68,4 @@ Teaching
   
 Service and leadership
 ======
-* Oct. 2019 - Apr. 2025: Member of the Institut d'Acoustique Graduate school ([IA-GS](https://iags.univ-lemans.fr/fr/index.html)) administrative board.
+* 2020 - 2025: Member of the Institut d'Acoustique Graduate school ([IA-GS](https://iags.univ-lemans.fr/fr/index.html)) administrative board.
