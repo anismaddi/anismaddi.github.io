@@ -58,8 +58,8 @@ Talks
 Teaching
 ======
 * Academic year : 2025-2026
-  * Practical work, Modélisatisation multi-physique appliquée aux systèmes, Bachelor level [SPI](https://scifa.univ-lorraine.fr/content/sciences-pour-lingenieur-eea): 40 hours
-  * Practical work, Introduction to electronics measurement & instrumentation, Master level [SPI](https://fst.univ-lorraine.fr/formations/master-electronique-energie-electrique-et-automatique/): 16 hours
+  * Practical work, Multiphysical simulation using COMSOL, Bachelor level [(SPI)](https://scifa.univ-lorraine.fr/content/sciences-pour-lingenieur-eea): 40 hours
+  * Practical work, Introduction to electronics measurement & instrumentation, Master level [(EEA)](https://fst.univ-lorraine.fr/formations/master-electronique-energie-electrique-et-automatique/): 16 hours
   
 
   
