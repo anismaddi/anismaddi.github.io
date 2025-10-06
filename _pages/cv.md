@@ -20,18 +20,15 @@ Work experience
 ======
 * May 2025 - Now : Postdoctoral fellow
   * [Institut Jean Lamour](https://ijl.univ-lorraine.fr), Nancy, France
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Topic: Conception of acoustic and elastic systems supporting bound states in the continuum (BICs) modes.
     
 * Mar. 2023 - Sep. 2023: Invited researcher
   * [Tohoku University](http://www.amsd.mech.tohoku.ac.jp/english.html), Sendai, Japan
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Topic: Conception of an optical interferometer for the measurement of density variations caused by sound waves. 
 
 * Oct. 2021 - Apr. 2025: Ph.D. Candidate
   * Le Mans Université, Le Mans, France
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Topic: Nonreciprocal control of sound waves using thermoacoustic and active electroacoustic elements; 
   
 Skills
 ======
