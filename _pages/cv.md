@@ -17,20 +17,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* May 2025 - Now : Postdoctoral fellow
+  * Institut Jean Lamour, Nancy, France
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
+    
+* Mar. 2023 - Sep. 2023: Invited researcher
+  * Tohoku University, Sendai, Japan
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2021 - Apr. 2025: Ph.D. Candidate
+  * Le Mans Université, Le Mans, France
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
 Skills
 ======
