@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Acoustics, Le Mans University, 2025 
-* M.S. in Acoustics and Wave Physics, Le Mans University, 2021
-* B.S. in Mechanical engineering, Sorbonne University, 2019
+ **Ph.D. in Acoustics**, [Le Mans University](https://www.univ-lemans.fr/en/index.html), 2025  
+ **M.S. in Acoustics and Wave Physics**, [Le Mans University](https://www.univ-lemans.fr/en/index.html), 2021  
+ **B.S. in Mechanical Engineering**, [Sorbonne University](https://www.sorbonne-universite.fr/en), 2019
+
 
 Work experience
 ======
