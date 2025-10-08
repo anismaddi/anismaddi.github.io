@@ -1,5 +1,5 @@
 ---
-title: "Interferometer"
+title: "Phase Shifting Interferometer"
 excerpt: "Conception of a Phase-Shifting Mach-Zehnder interferometer to study thermoacoustic problems<br/><img src='/images/Interferometer.png' style='width:300px; height:auto;'>"
 collection: portfolio
 ---
