@@ -32,7 +32,7 @@ Work experience
   
 * Feb. 2021 - Jul. 2021: Intern
   * [Technical University of Munich](https://www.epc.ed.tum.de/en/tfd/home/), Munich, Germany
-  * Topic: Implementation of a thermoacoustic stack in TaX (Matlab toolbox)
+  * Topic: Implementation of a thermoacoustic stack in [TaX](https://www.epc.ed.tum.de/en/tfd/research/tax-software/) (Matlab toolbox)
 
 * Oct. 2019 - Jan. 2021: Intern
   * Laboratoire d'Acoustique de l'Université du Mans (LAUM), Le Mans, France
