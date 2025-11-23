@@ -31,7 +31,7 @@ Work experience
   * Topic: Nonreciprocal control of sound waves using thermoacoustic and active electroacoustic elements.
   
 * Feb. 2021 - Jul. 2021: Intern
-  * [Technical University of Munich](http://www.amsd.mech.tohoku.ac.jp/english.html](https://www.epc.ed.tum.de/en/tfd/home/), Munich, Germany
+  * [Technical University of Munich](https://www.epc.ed.tum.de/en/tfd/home/), Munich, Germany
   * Topic: Implementation of a thermoacoustic stack in TaX (Matlab toolbox)
 
 * Oct. 2019 - Jan. 2021: Intern
