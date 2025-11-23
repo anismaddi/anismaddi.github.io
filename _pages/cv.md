@@ -28,7 +28,7 @@ Work experience
 
 * Oct. 2021 - Apr. 2025: Ph.D. Candidate
   * Le Mans Université, Le Mans, France
-  * Topic: Nonreciprocal control of sound waves using thermoacoustic and active electroacoustic elements.
+  * Topic: [Nonreciprocal control of sound waves using thermoacoustic and active electroacoustic elements](https://theses.hal.science/tel-05122239).
   
 * Feb. 2021 - Jul. 2021: Intern
   * [Technical University of Munich](https://www.epc.ed.tum.de/en/tfd/home/), Munich, Germany
