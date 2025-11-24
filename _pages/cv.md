@@ -13,7 +13,7 @@ Education
 ======
  **Ph.D.** in **Acoustics**, [Le Mans University](https://laum.univ-lemans.fr/fr/index.html), 2025  
  **M.S.c** in **Acoustics and Wave Physics**, [Le Mans Université](https://www.univ-lemans.fr/fr/formation/catalogue-des-formations/master-lmd-MLMD/sciences-technologies-sante-0004/master-acoustique-IXLYLOF4/parcours-international-master-s-degree-in-wave-physics-acoustics-JR7S4GX9.html), 2021  
- **B.S.c** in **Mechanical Engineering**, [Sorbonne University](https://www.sorbonne-universite.fr/en), 2019 <br>
+ **Erasmus Exchange**, [KTH](https://www.kth.se/en), Jan. 2019 - Jun.2019 <br>
  **B.S.c** in **Mechanical Engineering**, [Sorbonne University](https://www.sorbonne-universite.fr/en), 2019
 
 Work experience
