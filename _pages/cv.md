@@ -65,4 +65,4 @@ Service and leadership
 ======
 * Member of the Institut d'Acoustique Graduate school ([IA-GS](https://iags.univ-lemans.fr/fr/index.html)) administrative board, (2020-2025).
 * Committee member of the Symposium on Acoustic Metamaterials [SAM](https://sam-2026.sciencesconf.org).
-* Volunteer at the [Internoise 2024](https://internoise2024.org) 2024 conference.
+* Volunteer at the [Internoise 2024](https://internoise2024.org) conference.
